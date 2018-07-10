@@ -1,6 +1,6 @@
 # Probabilistic Robotics
 
-## Linear algebra
+## [Linear algebra](linear-algebra.ipynb)
   - Translation & rotation matrices
   - Coordinate frame transformation
 
