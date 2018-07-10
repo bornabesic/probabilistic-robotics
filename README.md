@@ -7,7 +7,7 @@
 ## [Locomotion](locomotion.ipynb)
   - Differential drive
 
-## Sampling
+## [Sampling](sampling.ipynb)
   - Uniform sum (Irwin–Hall)
   - Rejection sampling 
   - Box–Muller transform
