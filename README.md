@@ -4,7 +4,7 @@
   - Translation & rotation matrices
   - Coordinate frame transformation
 
-## Locomotion
+## [Locomotion](locomotion.ipynb)
   - Differential drive
 
 ## Sampling
